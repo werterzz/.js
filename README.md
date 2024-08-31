@@ -1,0 +1,2 @@
+# .js
+instant javascript manual
